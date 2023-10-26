@@ -22,5 +22,5 @@
 5. `npm start` or (`yarn start`)
 
 
-# The author uses a checkout github repository as a reference
+The author uses a checkout github repository as a reference
 
