@@ -23,8 +23,12 @@
 
 ### Cybersource Secure Acceptance Hosted Checkout Configuration
 1. Make sure you have registered at the Cybersource business center and that you have portal access. you can register using [this](https://ebc2test.cybersource.com/ebc2/registration/external) link.
-2. Once you logged in goto "Payment Configuration" => "Secure Acceptance Settings"
-![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/555f38ba-a9b5-48b2-963b-6f50305ab00b)
+2. Once you log in go to "Payment Configuration" => "Secure Acceptance Settings"
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/555f38ba-a9b5-48b2-963b-6f50305ab00b)
+3. Click on the "New Profile" button at the right top corner.
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/6bf976ec-28b0-44b7-8f1b-95716de98c17)
+4. Give a name for your profile. You can skip the contact information. Don't enable any of the added-value services unless you have some confirmation from CyberSource to use those features
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/3cc5c0ee-27e8-4696-bff8-1c9759dc2489)
 
 The author uses a checkout GitHub repository as a reference
 
