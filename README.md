@@ -42,7 +42,20 @@
 9. Once you have done Step 8 for each activated card type, click save at the bottom right corner.
 10. Step forward to the Security tab and click the "Create Key" button.
         ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/c23a61de-0dea-492f-aca7-224f186c7067)
+11. Give a name for the key and then click on the 'Create' button. 
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/f31b7f6b-33dc-41c0-a5a7-3841e395c9b7)
+12. Proceed to the Payment form tab and enable billing information, then configure accordingly. In the order review, make sure you check the display box for billing information and finally click the 'Save' button at the right bottom corner.
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/6122d91d-4211-44d6-86eb-08647f7ca6f2)
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/287ac341-499c-4a75-a9ef-1213e9e03ecb)
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/637cfc67-b522-4cb1-a700-7164e0b70bb7)
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/ae774212-3e51-41ac-8278-6ea0fdd88dfe)
+13. Go to the "Customer Response" Tab, and at the bottom enter the URL of the page to link to from the Transaction Response Page after the check-out process is complete. Don't forget to click the save button at the end.
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/920b7e33-4486-4da5-8ad3-dde13bc5a27b)
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/b0586569-ae83-43cf-8182-73262378e8d4)
+14. Finally click the Promote Profile button at the right top corner and make sure your profile status is changed to active.
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/a180e40f-61d5-40a6-9388-8101c2ff4040)
 
 
+    
 The author uses a checkout GitHub repository as a reference
 
