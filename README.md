@@ -1,5 +1,5 @@
 # CyberSource Hosted Checkout API Node.js Example Coded by Samuel Bahiru
-> An example of how to integrate CyberSource's Hosted Checkout API (formerly known as Silent Order POST) to a Node.js web application.
+> An example of how to integrate CyberSource's Hosted Checkout API (formerly known as Silent Order POST) into a Node.js web application.
 
 ## Requirements
 
@@ -54,8 +54,7 @@
         ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/b0586569-ae83-43cf-8182-73262378e8d4)
 14. Finally click the Promote Profile button at the right top corner and make sure your profile status is changed to active.
         ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/a180e40f-61d5-40a6-9388-8101c2ff4040)
+15. Once you have followed the steps, the profile should be activated. Now you can take the profile ID at the left top corner, and the other two keys ( access and secret keys ) by clicking the "View Key" button under the security tab.
+        ![image](https://github.com/samigits/secure-acceptance-hosed-checkout-backend-nodejs/assets/48197208/1ed9bf9c-5c5f-4e9d-9fcf-4f1264c1b00a)
 
-
-    
-The author uses a checkout GitHub repository as a reference
-
+for more you can find the documentation [here](https://developer.cybersource.com/content/cybsdeveloper2021/amer/en/library/documentation/dev_guides/Secure_Acceptance_Hosted_Checkout/Secure_Acceptance_Hosted_Checkout.pdf)
