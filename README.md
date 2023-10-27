@@ -1,4 +1,4 @@
-# CyberSource Hosted Checkout API Node.js Example Coded by Samuel Bahiru
+# CyberSource Hosted Checkout API Node.js Example
 > An example of how to integrate CyberSource's Hosted Checkout API (formerly known as Silent Order POST) into a Node.js web application.
 
 ## Requirements
